@@ -1,4 +1,4 @@
-# Driving_Signs
+# Traffic_Signs
 Used transfer learning from YOLO - V8 to identify Traffic Signs for object classification.
 
 # Requirements
