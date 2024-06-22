@@ -5,6 +5,7 @@ Used transfer learning from YOLO - V8 to identify Traffic Signs for object class
 
 * Roboflow
 * Ultralytics
+* YOLO - V8
 
 # Step-by-Step Procedure
 
